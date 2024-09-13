@@ -1,4 +1,4 @@
 Name: GPTScript Model Provider Credential
 Description: Gives access to the internal model provider in GPTScript to make OpenAI compatible API calls
 Share Credential: sys.model.provider.credential
-Type: credential
+Type: context
